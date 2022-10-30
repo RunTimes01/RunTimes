@@ -8,4 +8,5 @@ https://www.baidi.com
 
 安卓
 
-https://www.baidu.com
+https://github.com/RunTimes01/RunTimes/blob/main/C317/V1/FW96580A.bin
+
