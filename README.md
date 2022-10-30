@@ -4,9 +4,9 @@
 
 ios
 
-https://www.baidi.com
+https://github.com/RunTimes01/RunTimes/raw/main/C317/V1/FW96580A.bin
 
 安卓
 
-https://github.com/RunTimes01/RunTimes/blob/main/C317/V1/FW96580A.bin
+https://github.com/RunTimes01/RunTimes/raw/main/C317/V1/FW96580A.bin
 
